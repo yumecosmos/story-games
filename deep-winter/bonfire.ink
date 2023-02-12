@@ -1,30 +1,3 @@
-/* Testing */
-/* VAR have_ocarina = true
-VAR have_harp = true
-VAR have_star_fragment = false
-VAR have_glowworms = false
-
-->meet_colin
-
-==zelda_faint==
-->END
-
-==west_road==
-->mentioned_star_game
-
-= mentioned_star_game
-->meet_colin
-
-= mentioned_agitha
-->meet_colin
-
-->END
-
-==attempt_magic==
-(this is the ending)
-->END
-*/
-
 == meet_colin ==
 Colin was waiting in their meeting place.
 "Link! Zelda! {
@@ -236,7 +209,7 @@ Link and Colin shared a confused look. The whole thing sounded pretty abstract.
 "Should we have brought something?" Colin asked.
 "No, it's by no means required. And even if you don't want to throw anything in, you're welcome to stand by the fire to pray or reflect."
 "I think I will," Colin decided. "Give me a minute?"
-Zelda made her way to the foot of the stairs. Link saw that was holding a small parcel. "I have one of my own this year. Will you come with me?"
+Zelda made her way to the foot of the stairs. Link saw that she was holding a small parcel. "I have one of my own this year. Will you come with me?"
 They climbed up to the platform, and she revealed what she had brought. A circle of woven rushes, worked into a miniature replica of the Mirror of Twilight.
 "Rather than being consumed by the loss, I want to think of how grateful I am to have met her," Zelda whispered. "What she destroyed was the symbol of our ancestors' mistakes. From now on, my heart will be the door that still leads back to her, if only in memory." She looked at him. "Would you like to do it together?"
 * * (mirror_together)[Yes.] Link took hold of one side of the mirror, and they 

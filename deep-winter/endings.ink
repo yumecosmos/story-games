@@ -1,42 +1,3 @@
-/* Testing */
-/* VAR have_ocarina = true
-VAR have_harp = true
-VAR have_feather = true
-VAR have_star_fragment = false
-VAR have_glowworms = false
-VAR have_ember = true
-VAR sentiment = 4
-
-->ocarina_search.oot_link_portrait
-
-== function increment(ref x, k) ==
-~ x = x + k
-
-==meet_zelda==
-=dont_try
-->END
-
-==arrive_in_castle_town==
-=labrynna_memory_dance
-->END
-
-==bonfire==
-=sumo
-->END
-
-==recovering_at_telmas==
-=wish
-->END
-=maybe 
-->END
-
-==ocarina_search==
-=oot_link_portrait
-->links_house
-=links_house
-->attempt_magic
-*/
-
 ==attempt_magic==
 They arrived back in Zelda's study a few mintues before midnight.
 
@@ -59,7 +20,7 @@ Link and Colin nodded.
     -> ending_midna
 
     - have_feather and have_ocarina and have_ember:
-    Colin set the feather in its place while Link carefully poured the still-glowing ember out of the mug. Zelda kept an eye on her watch while Link practiced his fingering on the ocarina.
+    Colin set the feather in its place. Link carefully poured the still-glowing ember out of the mug. Zelda kept an eye on her watch while Link practiced his fingering on the ocarina.
     Then she looked up.
     "It's time."
     * Link raised the ocarina to his lips and started to play her song.[] As the rich, clear tones filled the room, the world around them seemed to fade away.
@@ -67,7 +28,7 @@ Link and Colin nodded.
     -> ending_oot
 
     - have_feather and have_harp and have_star_fragment: 
-    They set the feather and the star fragment in their places. Zelda handed Link her pocket watch to keep an eye on the time while she quietly plucked at the harp strings, memorizing the tune.
+    They set the feather and the star fragment in their places. Zelda handed Link her pocket watch to keep an eye on the time while she quietly plucked at the harp strings, practicing.
     Link looked up.
     "It's time."
     * Zelda's fingers danced over the strings, her song rippling like light on the surface of a flowing stream[.], and the world around them seemed to fade away. 
@@ -369,7 +330,7 @@ But no matter what else in their lives changed—or didn't—their bond was unbr
 ->the_end
 
 == ending_oot ==
-Within the circle, time slowed, then rushed backwards like a tidal wave receding. Images flashed past too fast to comprehend—road, sky, desert, ruins. Intense red eyes and long bangs swept over one half of a tanned face.
+Within, time slowed, then rushed backwards like a tidal wave receding. Images flashed past too fast to comprehend—road, sky, desert, ruins. Intense red eyes and long bangs swept over one half of a tanned face.
 A dagger, pointed straight at them.
 * That obviously wasn't Midna.[]
 - "Who goes there?" the man demanded. 
@@ -626,7 +587,7 @@ She took it about as well as anyone could. Tears sparkled beneath her lashes, bu
 "I understand. Thank you for your honesty. "
 "I'm sorry if I made you think..."
 She shook her head. "You did nothing wrong. I just needed to tell you. Didn't want to regret not telling you. More than anything, I'm glad that you want to be in my life. I only hope this won't make things too awkward between us."
-"I'm all right if you are. I don't spook that easy."
+"I'm all right if you are. I don't spook that easily."
 She let out a sigh of relief. Her hands were shaking, he realized. 
 "Do you need some space?"
 "Not unless you want to leave."
@@ -649,4 +610,7 @@ She smiled. "Come back next year and we'll find another?"
 <hr>
 Many thanks to Farore and the mods at Hateno Hideout for organizing this exchange! Ace, and everyone, I hope you'll enjoy it. There are three different endings... can you find them all? :)
 <small>P.S. Sorry this is so late!</small>
+<hr>
+Made with Inky
+The Legend of Zelda is &copy; Nintendo, who I hope will not DMCA me for this fan work based on a 20 year old game.
 ->END
